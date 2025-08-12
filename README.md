@@ -7,4 +7,4 @@ tecnologias usadas
 **JavaScript**
 
 Para visualizar a pagina so clicar no link
-](https://jhonatagregore.github.io/Projeto_barbearia/index.html)
+(https://jhonatagregore.github.io/Projeto_barbearia/index.html)
